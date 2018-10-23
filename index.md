@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to our teams website.
 
-You can use the [editor on GitHub](https://github.com/CallumHemsley/GRP-08/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is where you will find our teams details, our projects details, our progress and our plans for the project.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
