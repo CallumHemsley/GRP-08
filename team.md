@@ -4,32 +4,26 @@
 ## Team Details
 
 ### Weng Ying (SUPERVISOR)
-	Background:
-
+	
+	
 ### Yuyu Hu 16521926 (LEADER) 
-	Background:
-	hobby:
-
+	Modelling leader
 
 
 ### Minghao Wang 16522066 
-	Background:
-	hobby:
+	Script leader
+
 ### Yuhao Chen 16522027
-	Background:
-	hobby:
+	
 
 ### Jianglun Huang 16522039
-	Background:
-	hobby:
+	
 
 
 ### Yuming Zheng 16522094
-	Background:
-	hobby:
+	UI design leader
 
 
 
 ### Callum Terry Hemsley 10323688
-	Background:
-	hobby:
+	Testing leader
