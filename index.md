@@ -5,8 +5,10 @@
 
 This is where you will find our teams details, our projects details, our progress and our plans for the project.
 
-[Team](https://callumhemsley.github.io/GRP-08/team/)
-[Project](https://callumhemsley.github.io/GRP-08/project/)
+[Team](https://callumhemsley.github.io/GRP-08/team)
+
+
+[Project](https://callumhemsley.github.io/GRP-08/project)
 
 This is a test
 
