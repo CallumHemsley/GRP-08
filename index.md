@@ -7,14 +7,10 @@ This is where you will find our teams details, our projects details, our progres
 
 [Team](https://callumhemsley.github.io/GRP-08/team)
 
-
 [Project](https://callumhemsley.github.io/GRP-08/project)
 
-This is a test
+[Meetings](https://callumhemsley.github.io/GRP-08/meetings)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -34,8 +30,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
