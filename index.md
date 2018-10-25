@@ -10,9 +10,33 @@ This is where you will find our teams details, our projects details, our progres
 [Project](https://callumhemsley.github.io/GRP-08/project)    [Meetings](https://callumhemsley.github.io/GRP-08/meetings)
 
 
-[Team](https://callumhemsley.github.io/GRP-08/team)
+
+### Team Member Details
+
+  ## Weng Ying (SUPERVISOR)
+	  -The greatest **Tutor&Mentor**
+	
+  ## Yuyu Hu 16521926 (LEADER) 
+	  -The leader of **_Modelling&Script_**
 
 
+  ## Minghao Wang 16522066 
+	  -The leader of **_Script_**
+
+  ## Yuhao Chen 16522027
+	  -The leader of **_Prototyping_**
+
+  ## Jianglun Huang 16522039
+	  -The leader of **_Requirement Specification_**
+
+
+  ## Yuming Zheng 16522094
+	  -The leader of **_UI Design_**
+
+
+
+  ## Callum Terry Hemsley 10323688
+	  -The leader of **_Testing_**
 
 ```markdown
 Syntax highlighted code block
