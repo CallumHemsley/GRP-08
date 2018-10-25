@@ -19,29 +19,29 @@ This is where you will find our teams details, our projects details, our progres
 
 
 ### Weng Ying (SUPERVISOR)
-	  -The greatest **Tutor&Mentor**
+	  -The greatest Tutor&Mentor
 	
 ### Yuyu Hu 16521926 (LEADER) 
-	  -The leader of **_Modelling&Script_**
+	  -The leader of Modelling&Script
 
 
 ### Minghao Wang 16522066 
-	  -The leader of **_Script_**
+	  -The leader of Script
 
 ### Yuhao Chen 16522027
-	  -The leader of **_Prototyping_**
+	  -The leader of Prototyping
 
 ### Jianglun Huang 16522039
-	  -The leader of **_Requirement Specification_**
+	  -The leader of Requirement Specification
 
 
 ### Yuming Zheng 16522094
-	  -The leader of **_UI Design_**
+	  -The leader of UI Design
 
 
 
 ### Callum Terry Hemsley 10323688
-	  -The leader of **_Testing_**
+	  -The leader of Testing
 
 ```markdown
 Syntax highlighted code block
