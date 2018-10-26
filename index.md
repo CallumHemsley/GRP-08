@@ -1,7 +1,7 @@
 ---
+## Home Page
 ---
 
-## Home Page
 
 Welcome to our website!
 
