@@ -1,4 +1,6 @@
 ---
+title: HomePage
+layout: post
 ---
 
 ## Home Page
@@ -44,23 +46,5 @@ This is where you will find our teams details, our projects details, our progres
 
 ### Callum Terry Hemsley 10323688
 	  -The leader of Testing
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 

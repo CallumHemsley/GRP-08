@@ -1,4 +1,6 @@
 ---
+title: Project
+layout: post
 ---
 
 # Project Details

@@ -1,3 +1,8 @@
+---
+title: Meetings
+layout: post
+---
+
 # Meeting Diary
 
 ##  2018.10.23
