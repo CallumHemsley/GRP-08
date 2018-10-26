@@ -1,9 +1,7 @@
 ---
-title: Team
+title: Team Details
 layout: post
 ---
-
-## Team Details
 
 ### Weng Ying (SUPERVISOR)
 	

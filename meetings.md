@@ -1,9 +1,8 @@
 ---
-title: Meetings
+title: Meeting Diary
 layout: post
 ---
 
-# Meeting Diary
 
 ##  2018.10.23
   1. We've decided three building as our modelling targets.  The first one is TianYi Pavilion. The other two are next to it. 

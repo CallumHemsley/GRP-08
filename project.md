@@ -1,9 +1,7 @@
 ---
-title: Project
+title: Project Details
 layout: post
 ---
-
-# Project Details
 	
 ##	Background Information:
   Nowadays, cultural relics are in an urgent need of protection due to various reasons. Some technology available are new ways to protect and memorize the cultural heritage.

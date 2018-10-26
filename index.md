@@ -3,8 +3,6 @@ title: HomePage
 layout: post
 ---
 
-## Home Page
-
 Welcome to our website!
 
 This is where you will find our teams details, our projects details, our progress and our plans for the project.
