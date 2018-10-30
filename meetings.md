@@ -12,7 +12,8 @@ layout: post
 * There was a problem with the 3D software "reality capture":
     * To buy is very expensive, around 40,000 RMB.
     * We are trying the free version currently.
-    * We are also unsure on how long this license for 40,000 RMB lasts e.g 3 months, the whole year etc
+    * We are also unsure on how long this license for 40,000 RMB lasts e.g 3 months, the whole year etc.
+
 
   We are currently making the requirements specification now.
 
