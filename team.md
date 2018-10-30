@@ -3,27 +3,27 @@ title: Team Details
 layout: post
 ---
 
-### Weng Ying (SUPERVISOR)
-	
+### Ying Weng (SUPERVISOR)
+	  -The greatest Tutor&Mentor
 	
 ### Yuyu Hu 16521926 (LEADER) 
-	Modelling leader
+	  -The leader of Modelling&Script
 
 
 ### Minghao Wang 16522066 
-	Script leader
+	  -The leader of Script
 
 ### Yuhao Chen 16522027
-	
+	  -The leader of Prototyping
 
 ### Jianglun Huang 16522039
-	
+	  -The leader of Requirement Specification
 
 
 ### Yuming Zheng 16522094
-	UI design leader
+	  -The leader of UI Design
 
 
 
 ### Callum Terry Hemsley 10323688
-	Testing leader
+	  -The leader of Testing
