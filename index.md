@@ -12,7 +12,7 @@ This is where you will find our teams details, our projects details, our progres
 
 
 
-### Weng Ying (SUPERVISOR)
+### Ying Weng (SUPERVISOR)
 	  -The greatest Tutor&Mentor
 	
 ### Yuyu Hu 16521926 (LEADER) 
