@@ -13,8 +13,8 @@ Discussing requirements (specifically for 2D based application):
 * We can divide stakeholders into several categories: age, gender, etc.
 * We can't forget old people, since this is immersive tour guide:
 * For old people: 
-		* Don't necessarily give them game mechanics.
-		* Give them an option not to play, but to just look around.
+	* Don't necessarily give them game mechanics.
+	* Give them an option not to play, but to just look around.
 
 
 ## Specification
