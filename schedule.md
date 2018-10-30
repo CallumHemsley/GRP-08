@@ -1,5 +1,5 @@
 ---
-title: Time Schedule
+title: time Schedule
 layout: post
 ---
 
