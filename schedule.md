@@ -22,6 +22,7 @@ layout: post
 ## UI Design  
 - 2018.11.1-2018.12.1
 - **To Do**
+
 ## UI implementation  
 - 2018.12.1-2019.1
 - **To Do**
