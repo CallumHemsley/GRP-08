@@ -3,14 +3,14 @@ title: Meeting Diary
 layout: post
 ---
 ##  2018.11.07
-  Requirement part: 
+* Requirement part: 
     * For the key feature of the building: add more details about the building, for example: the construction time of building, which include the different architectural style of different periods. 
-  Specification part:
+* Specification part:
     * It is fine to use multi-media to improve user's immersive experience, for instance: the traditional Chinese music, bilingual text guidance, and bilingual audio guidance. 
-  Software & programming part:
+* Software & programming part:
     * Group member should all agree with the software that going to use and define the role by facility.
     * It is suitable to create the game in 2D way regarding the Hardware & Software situation. 
-  Interim report:
+* Interim report:
     * Words limit: the words of interim report can be more than 5000 words, of which our marks will have not deduction.
     * Group member should create the UML, prototype and the UI.
     * Complete the requirement and specification, and the format of it is in the previous year lecture slides.
