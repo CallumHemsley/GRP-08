@@ -2,6 +2,56 @@
 title: Meeting Diary
 layout: post
 ---
+##  2018.10.30
+* Activity Diagram:
+   * Actor: Visitors
+   * Visitors Activity: 
+      * Settings (language, voice guidance, font size)
+      * Save game record
+      * Play or Visit
+      * Choose chapter of the game (buildings)
+      * Guidance
+* Sequence Diagram:
+   * Setting (language, voice guidance, font size)
+   * Choose Play & Visit
+   * Procedure of playing:
+      * Enter the lobby, NPC will give them corresponding key->
+      * Get into the chapter(building) ->
+      * Find NPC in the first room, get the quiz ->
+      * Answer the quiz, or go to find the scroll ->
+      * …………………………………………………..
+      * Below are for decision of finding the scroll
+      * (collect the scroll ->) 
+      * (read to find the answer ->) 
+      * (answer the quiz ->)
+      * Above are for decision of finding the scroll
+      * ……………………………………………………
+      * pass => (get the scroll) ->
+      * fail => (educate: by highlight the position, don’t get the scroll) ->
+      * NPC gives the next room’s key 
+      * next room: the same pattern as the first room------> 
+      * final room: the same pattern, but will not give next room’s key -> 
+      * if it is (TianYi pavilion), gives the final score, if they are willing to share the final score, unlock all collections they don’t have. Otherwise, remain the same. Go back to the menu.
+      * If the building is not Tianyi pavilion, the player will be sent back to the lobby. They could choose to continue or exit the game.
+* Overall arrangement of the map
+   * A Lobby ‘O’ and several rooms ‘A’, ‘B’, ‘C’, like a tree
+   * And a series of room ‘a1’, ‘a2’, ‘b1’, ‘b2’, ‘c1’, ‘c2’
+   * The lobby can only access to ‘A’, ‘B’, ‘C’, ‘A’, ‘B’, ‘C’ can’t access among each other
+   * ‘A’ can access to ‘a1’, ‘a1’ can access to ‘a2’, like an array. Same as ‘B’ and ‘C’
+   * NPCs are in each room
+   * It’s able to quit and automatically save. That will move players to the main room O
+* Language: Unity, Csharp
+* Tasks:
+   * Use case diagram: Minghao Wang
+   * Activity diagram: Yuming Zheng
+   * State machine diagram: Callum
+   * Sequence diagram: Minghao Wang
+   * Prototype: Yuhao Chen, Jianglun Huang
+   * Background research: Yuyu Hu
+   * DDL: Tuesday 11.20 6pm
+   * Have a meeting at Tuesday 11.20 night at Yuyu’s dorm
+
+
 ##  2018.11.14
 * This week we focus more on our course work as there are 2 DDLs during this week.
 * Our question according to the mid term report:
