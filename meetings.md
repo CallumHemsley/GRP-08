@@ -2,7 +2,7 @@
 title: Meeting Diary
 layout: post
 ---
-##  2018.10.30
+##  2018.11.16
 * Activity Diagram:
    * Actor: Visitors
    * Visitors Activity: 
