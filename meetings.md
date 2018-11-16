@@ -2,6 +2,20 @@
 title: Meeting Diary
 layout: post
 ---
+##  2018.11.14
+* This week we focus more on our course work as there are 2 DDLs during this week.
+* Our question according to the mid term report:
+    * We have no idea how much we are supposed to do in the report, and how much we should do in this term.
+    * There is no concrete format of the report
+* ----write as far as we did in the report
+* How current problem in the whole project:
+    * No clear timeline now
+    * No short term plan now (what to do these days among requirement specification, UML, and prototype)
+    * No fixed unofficial meeting time
+    * No communication between us
+* Solution:
+    * Discuss the above problem in the weekend
+
 ##  2018.11.07
 * Requirement part: 
     * For the key feature of the building: add more details about the building, for example: the construction time of building, which include the different architectural style of different periods. 
