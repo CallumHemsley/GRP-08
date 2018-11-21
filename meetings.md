@@ -18,10 +18,12 @@ What we need do in next week:
    * The information about TianYi pavilion which put into scrolls
    * The quiz asks some knowledge about the information in scrolls
 * Task reallocated:
-   * Background information research & time plan : Yuyu Hu
-   * Requirement specification & class diagram : Minghao Wang
-   * Prototype: Jianglun Huang
-   * Key implementationL Yuhao Chen
+   * Background information research & time plan & updated and expanded description of problems: Yuyu Hu
+   * Requirement specification & Meeting Records: Minghao Wang : Minghao Wang
+   * Results of any initial implementation steps/prototyping: Jianglun Huang
+   * Record of key implementation decisions, such as programming languages etc.: Yuhao Chen
+   * Discussions of problems encountered so far, both technical and management issues: Callum
+   * UI and initial design of proposed system: Yuming Zheng
 * Maybe there are three room per building, nine in total
 * Report need be finished one week before the DDL
 * Have a meeting at Sunday
