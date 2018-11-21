@@ -2,6 +2,31 @@
 title: Meeting Diary
 layout: post
 ---
+## 2018.11.21
+What we need do in next week:
+   * Generate out database of App
+      * Design the data structure: what will be included
+   * Finish the class diagram
+   * Make UML diagram more detail
+   * Do some background information research
+   * Do some modification base on the feedback
+* Database structure:
+   * Save the game state: character coordinate, prefer setting and so on, may use table or array to store it
+   * Fifure out the key variable in the game and store it
+   * The content of quiz and scrolls, if the question is same, put in the code but database
+* Background information:
+   * The information about TianYi pavilion which put into scrolls
+   * The quiz asks some knowledge about the information in scrolls
+* Task reallocated:
+   * Background information research & time plan : Yuyu Hu
+   * Requirement specification & class diagram : Minghao Wang
+   * Prototype: Jianglun Huang
+   * Key implementationL Yuhao Chen
+* Maybe there are three room per building, nine in total
+* Report need be finished one week before the DDL
+* Have a meeting at Sunday
+
+
 ## 2018.11.20
 * Activity Diagram:
     * Delete score system
