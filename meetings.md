@@ -2,6 +2,29 @@
 title: Meeting Diary
 layout: post
 ---
+## 2018.11.20
+* Activity Diagram:
+    * Delete score system
+    * Add turn on/off voice action
+    * Add auto save
+    * Add share action in collection page
+* Use case diagram:
+    * Add manual save, put in menu
+    * Add intend and extend keyword
+* Share action:
+    * Share the number of collection or the content of collection to WeChat/Weibo
+    * In collection page: after sharing, go back to collection page
+    * When play game: can be found in menu
+* Visit Button(in menu):
+    * VR picture 
+    * VR video   
+* VR picture & VR video
+    * Transfer normal video/picture to VR vedio/picture
+    * Or Create by ourselves
+    * Unlocked if:
+        * User choose to visit
+        * User choose to play but have collected all scrolls
+
 ##  2018.11.16
 * Activity Diagram:
    * Actor: Visitors
