@@ -11,8 +11,8 @@ layout: post
 
 * visit mode has several changes
 	* it can not unlock all the scrolls(collections) 
-	* firstly, the user choose which building to visit
-	* secondly, introduction of the buidling， scrolls of the building, photos could be choosen. Those items are shown as labelled-lists.
+	* firstly, the user chooses which building to visit
+	* secondly, introduction of the building，scrolls of the building, photos could be chosen. Those items are shown as labelled-lists.
 
 * Tuesday night each one of us should finish our own part. Before Wednesday's meeting we should use latex to combine our work together
 ## 2018.11.21
