@@ -2,6 +2,19 @@
 title: Meeting Diary
 layout: post
 ---
+## 2018.12.2
+
+* decide to change the game mechanism again:
+	* collections are the scrolls
+	* they could see the photo of Tianyi pavilion in the game
+
+
+* visit mode has several changes
+	* it can not unlock all the scrolls(collections) 
+	* firstly, the user choose which building to visit
+	* secondly, introduction of the buidling， scrolls of the building, photos could be choosen. Those items are shown as labelled-lists.
+
+* Tuesday night each one of us should finish our own part. Before Wednesday's meeting we should use latex to combine our work together
 ## 2018.11.21
 What we need do in next week:
    * Generate out database of App
