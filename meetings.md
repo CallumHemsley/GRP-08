@@ -7,6 +7,9 @@ layout: post
 * decide to change the game mechanism again:
 	* collections are the scrolls
 	* they could see the photo of Tianyi pavilion in the game
+	* if they give a wrong answer for the quiz, NPC will directly show the answer to them if they don't want to change their answer.
+	* scrolls could only be collected by the player when they have found them. If they answer the wrong question without the scroll, they won't get the scroll in that room anymore.
+	* answering the quiz right or wrong decides their final score of the game.
 
 
 * visit mode has several changes
