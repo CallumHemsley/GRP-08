@@ -18,6 +18,51 @@ layout: post
 	* secondly, introduction of the building，scrolls of the building, photos could be chosen. Those items are shown as labelled-lists.
 
 * Tuesday night each one of us should finish our own part. Before Wednesday's meeting we should use latex to combine our work together
+
+## 2018.11.28
+*	Discussion about the order of chapters – leave it for now
+*	Discussion about the report 
+	* each one explains his own work like UML & UI; 
+	* each one start to write his own part – DDL 12.2
+*	pictures of the real scenes – leave it for now
+*	prototype – Game UI : draw the draft ( NPC position & Door Position) One screen – one room
+*	Simple Unity 2D Coding for character move – Yuyu DDL 12.2
+
+## 2018.11.25
+* Discussion about the construction of our game, based on Minghao’s opinion,Reconstruct the construction:
+	* each building should have a sub-lobby
+	* each room should have a NPC 
+	* different NPC have different functions – lobby NPC gives building keys; sub-lobby NPCs give own rooms’ keys; room NPCs give quizzes.
+	Based on this, draw the class diagram.
+* Database discussion
+	*	How to save coordinates? 
+	*	How to interact with NPC? – check the range within the character and NPC automatically
+	*	What kind of data should be saved? – anything will be invoked from database.
+		* i.	Building ID - int
+		* ii.	Room ID - int
+		* iii.	Coordinates – double
+		* iv.	NPC ID – int
+ 		* v.	Scroll ID – int
+		* vi.	Quiz ID – int
+		* vii.	Key ID – int 
+		* viii.	Door ID – int
+		* ix.	Etc’s ID – ID
+		* x.	Building Name – String
+		* xi.	Room Name – String
+		* xii.	NPC Name – String
+		* xiii.	Scroll Name – String
+		* xiv.	State of objects – (Boolean)
+		* xv.	Number of keys – int
+		* xvi.	Number of Scrolls – int
+		* xvii.	Number of the exact keys of which character owns – int
+		* xviii.Number of the exact scrolls of which character owns – int
+*	In case of segmentation fault - > build separate maps instead of one single map
+*	UML & UI: re-modifying
+*	An object called options need to be added, since it is aggregated with Quiz.
+*	Quiz – based on the real history
+
+
+
 ## 2018.11.21
 What we need do in next week:
    * Generate out database of App
