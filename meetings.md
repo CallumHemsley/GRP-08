@@ -3,14 +3,14 @@ title: Meeting Diary
 layout: post
 ---
 ## 2018.12.5
-* Some errors are in the intial report:
+* Some errors are in the initial report:
 	* prototype should be a separated section
-	* choosen platform belongs to the background part
+	* chosen platform belongs to the background part
 	* the order of the report should better be design --> prototype --> implementation
 * platform: we decide only develop Android version.
 * Both the diagram size and the text size should be larger than before.
-* the intial coding should be included, and the results should be takend screenshots.
-* future plan, Gannt chart, aim(purpose), overview and motivation(promote traditional culture and protect historial heritage)  should be added
+* the intiicoding should be included, and the results should be taken as screenshots.
+* future plan, Gannt chart, aim (purpose), overview and motivation (promote traditional culture and protect historical heritage)  should be added
 
 
 ## 2018.12.2
