@@ -2,6 +2,23 @@
 title: Meeting Diary
 layout: post
 ---
+## 2018.12.21
+* Team has set up a github repo for the unity project, inlcuding a gitignore file so commits won't have lot's of conflicts.
+* Over the next two weeks the team must do:
+    * Initial coding implementation, on GitHub.
+    * Start working on textures and structure of the levels.
+* Also discussed what we would do over winter break, which is from 19th Jan until 17th Feb.
+* 2 members of the team were not at the meeting, therefore we will have another meeting to plan how to divide the work for implementation.
+
+## 2018.12.12
+* Clarified issues within group report draft:
+    * UI contradictions were changed.
+    * Font sizes was clarified as 1-5.
+    * Volume was clarified as 0-10.
+    * Prototype contradictions changed.
+    * Changed UML to more accurately match requirements.
+* Content table is needed at the start, with sections and subsections.
+
 ## 2018.12.5
 * Some errors are in the initial report:
 	* prototype should be a separated section
