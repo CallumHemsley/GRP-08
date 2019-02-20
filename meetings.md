@@ -2,6 +2,21 @@
 title: Meeting Diary
 layout: post
 ---
+## 2019.02.20
+1.	Feedback to interim report:
+ 	Team members should be focus on the detail, including:
+	1)	the background survey of any existing systems that address similar problems; 
+	2)	market research; 
+	3)	technical research of platform choice, tools algorithms and data structure; 
+	4)	initial implementation steps.
+2.	Working plan:
+	1) Arrange meeting time for group member.
+	2) Finish the implementation of game framework.
+	3) Everyone should work on 4 or 5 surveys and combine the result.
+3.	Answer for question:
+	1) UI component should be made by Unity.
+	2) The suggestion of building texture will be given after finishing the game framework. 
+
 ## 2018.12.21
 * Team has set up a github repo for the unity project, inlcuding a gitignore file so commits won't have lot's of conflicts.
 * Over the next two weeks the team must do:
