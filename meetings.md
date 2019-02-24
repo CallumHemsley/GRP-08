@@ -2,6 +2,18 @@
 title: Meeting Diary
 layout: post
 ---
+## 2019.02.24
+1.	Work Report
+	1) Harrod: build a dialog system by Unity & upload to GitHub; background research – cYark (Website) & Lost Palace of which we can learn the idea of IMMERSIVE.
+	2) Callum: simple character movement & auto saving by each 20s & quit 
+	3) Yuming & Yuhao: UI construction; frame-by-frame animation; collect some graphic components which might be used.
+	   * the art style of the game should be similar which means the buildings, the components and the GUI should be in a similar style.
+	4) Jianglun & Yuyu: historical knowledge gathering
+2.	Work Distribution
+	1) Historical knowledge gathering and preparation – Jianglun & Yuyu DDL: 2.27 before regular meeting.
+	2) Game sketch level & animation – Callum & Harrod
+	3) One simple scene building up & graphic components gathering – Yuhao & Yuming
+
 ## 2019.02.20
 1.	Feedback to interim report:
  	Team members should be focus on the detail, including:
