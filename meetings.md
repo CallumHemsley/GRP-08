@@ -2,6 +2,17 @@
 title: Meeting Diary
 layout: post
 ---
+## 2019.02.27
+1. formal meeting
+	1) BG survey – get 7 detailed information collection – Yuyu
+	2) Game sketch level – need UI to support 
+	3) A first prototype needs to be formed in the 1st month !!! since we only have six weeks
+	4) Make a timeline 
+	5) Final report – based on interim report, do some modification (deletion, addition, modification)
+	6) Poster needed for pre – check with Dave
+	7) for mark distribution: 1st: poster & demonstration; 2nd 15-min pre & 5-min Q&A; 3rd final report
+	
+
 ## 2019.02.24
 1.	Work Report
 	1) Harrod: build a dialog system by Unity & upload to GitHub; background research – cYark (Website) & Lost Palace of which we can learn the idea of IMMERSIVE.
