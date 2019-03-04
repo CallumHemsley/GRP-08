@@ -2,6 +2,21 @@
 title: Meeting Diary
 layout: post
 ---
+## 2019.03.03
+1.	Work Report
+	1) Harrod & Callum – develop key system (pick up key) & door entrance system
+	2) Yuming – continuously working on UI, will finish the first version by Wed.
+	3) Jianglun & Yuhao – went to Tianyi Pavilion & did some research (got a map which is useful to design the buildings)	
+	4) Yuyu – working on scripts
+2.	Things to be accomplished
+	1) Quiz system.
+	2) Animations (not complex)
+	3) Pause system
+	4) UI & building 
+	5) Scrolls & scripts & dialog
+	6) Integration of individual parts to form a complete system
+	7) Visit mode – optional ( determined by the progress of play mode)
+
 ## 2019.02.27
 1. formal meeting
 	1) BG survey – get 7 detailed information collection – Yuyu
