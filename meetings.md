@@ -3,57 +3,57 @@ title: Meeting Diary
 layout: post
 ---
 ## 2019.03.03
-1.	Work Report
-	1) Harrod & Callum – develop key system (pick up key) & door entrance system
-	2) Yuming – continuously working on UI, will finish the first version by Wed.
-	3) Jianglun & Yuhao – went to Tianyi Pavilion & did some research (got a map which is useful to design the buildings)	
-	4) Yuyu – working on scripts
-2.	Things to be accomplished
-	1) Quiz system.
-	2) Animations (not complex)
-	3) Pause system
-	4) UI & building 
-	5) Scrolls & scripts & dialog
-	6) Integration of individual parts to form a complete system
-	7) Visit mode – optional ( determined by the progress of play mode)
+*	Work Report
+	* 1) Harrod & Callum – develop key system (pick up key) & door entrance system
+	* 2) Yuming – continuously working on UI, will finish the first version by Wed.
+	* 3) Jianglun & Yuhao – went to Tianyi Pavilion & did some research (got a map which is useful to design the buildings)	
+	* 4) Yuyu – working on scripts
+*	Things to be accomplished
+	* 1) Quiz system.
+	* 2) Animations (not complex)
+	* 3) Pause system
+	* 4) UI & building 
+	* 5) Scrolls & scripts & dialog
+	* 6) Integration of individual parts to form a complete system
+	* 7) Visit mode – optional ( determined by the progress of play mode)
 
 ## 2019.02.27
-1. formal meeting
-	1) BG survey – get 7 detailed information collection – Yuyu
-	2) Game sketch level – need UI to support 
-	3) A first prototype needs to be formed in the 1st month !!! since we only have six weeks
-	4) Make a timeline 
-	5) Final report – based on interim report, do some modification (deletion, addition, modification)
-	6) Poster needed for pre – check with Dave
-	7) for mark distribution: 1st: poster & demonstration; 2nd 15-min pre & 5-min Q&A; 3rd final report
+* formal meeting
+	* 1) BG survey – get 7 detailed information collection – Yuyu
+	* 2) Game sketch level – need UI to support 
+	* 3) A first prototype needs to be formed in the 1st month !!! since we only have six weeks
+	* 4) Make a timeline 
+	* 5) Final report – based on interim report, do some modification (deletion, addition, modification)
+	* 6) Poster needed for pre – check with Dave
+	* 7) for mark distribution: 1st: poster & demonstration; 2nd 15-min pre & 5-min Q&A; 3rd final report
 	
 
 ## 2019.02.24
-1.	Work Report
-	1) Harrod: build a dialog system by Unity & upload to GitHub; background research – cYark (Website) & Lost Palace of which we can learn the idea of IMMERSIVE.
-	2) Callum: simple character movement & auto saving by each 20s & quit 
-	3) Yuming & Yuhao: UI construction; frame-by-frame animation; collect some graphic components which might be used.
-	   * the art style of the game should be similar which means the buildings, the components and the GUI should be in a similar style.
-	4) Jianglun & Yuyu: historical knowledge gathering
-2.	Work Distribution
-	1) Historical knowledge gathering and preparation – Jianglun & Yuyu DDL: 2.27 before regular meeting.
-	2) Game sketch level & animation – Callum & Harrod
-	3) One simple scene building up & graphic components gathering – Yuhao & Yuming
+*	Work Report
+	* 1) Harrod: build a dialog system by Unity & upload to GitHub; background research – cYark (Website) & Lost Palace of which we can learn the idea of IMMERSIVE.
+	* 2) Callum: simple character movement & auto saving by each 20s & quit 
+	* 3) Yuming & Yuhao: UI construction; frame-by-frame animation; collect some graphic components which might be used.
+	  * the art style of the game should be similar which means the buildings, the components and the GUI should be in a similar style.
+	* 4) Jianglun & Yuyu: historical knowledge gathering
+*	Work Distribution
+	* 1) Historical knowledge gathering and preparation – Jianglun & Yuyu DDL: 2.27 before regular meeting.
+	* 2) Game sketch level & animation – Callum & Harrod
+	* 3) One simple scene building up & graphic components gathering – Yuhao & Yuming
 
 ## 2019.02.20
-1.	Feedback to interim report:
- 	Team members should be focus on the detail, including:
-	1)	the background survey of any existing systems that address similar problems; 
-	2)	market research; 
-	3)	technical research of platform choice, tools algorithms and data structure; 
-	4)	initial implementation steps.
-2.	Working plan:
-	1) Arrange meeting time for group member.
-	2) Finish the implementation of game framework.
-	3) Everyone should work on 4 or 5 surveys and combine the result.
-3.	Answer for question:
-	1) UI component should be made by Unity.
-	2) The suggestion of building texture will be given after finishing the game framework. 
+*	Feedback to interim report:
+ 	* Team members should be focus on the detail, including:
+	* 1)	the background survey of any existing systems that address similar problems; 
+	* 2)	market research; 
+	* 3)	technical research of platform choice, tools algorithms and data structure; 
+	* 4)	initial implementation steps.
+*	Working plan:
+	* 1) Arrange meeting time for group member.
+	* 2) Finish the implementation of game framework.
+	* 3) Everyone should work on 4 or 5 surveys and combine the result.
+* 	Answer for question:
+	* 1) UI component should be made by Unity.
+	* 2) The suggestion of building texture will be given after finishing the game framework. 
 
 ## 2018.12.21
 * Team has set up a github repo for the unity project, inlcuding a gitignore file so commits won't have lot's of conflicts.
