@@ -7,24 +7,22 @@ layout: post
 - Boss
 	
 ### Yuyu Hu 16521926 (LEADER) 
-- The leader of Modelling&Script
-- Updated and expanded description of problem
+- The leader of game script(NPC dialogue part)
 - Time plan
-
+- Meeting Details
 
 
 ### Minghao Wang 16522066 
-- The leader of Script
+- The leader of unity coding
 - Requirements Specification
-- Meeting details/records
-
+- Final Report part: What we have achieved
 
 ### Yuhao Chen 16522027
-- The leader of Maintenance
+- The leader of game model design(layout of ui)
 - Record of key implementation decisions, such as programming languages etc.
 
 ### Jianglun Huang 16522039
-- The leader of Testing
+- The leader of game play script(scroll, quiz)
 - Background information and research
 
 ### Yuming Zheng 16522094
@@ -34,7 +32,7 @@ layout: post
 
 
 ### Callum Terry Hemsley 10323688
-- The leader of Prototyping
+- The leader of unity coding & testing
 - Results of any initial implementation steps/prototyping
 - Discussions of problems encountered so far, both technical and management issues.
 
