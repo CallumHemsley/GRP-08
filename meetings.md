@@ -2,10 +2,27 @@
 title: Meeting Diary
 layout: post
 ---
+## 2019.03.06
+*	Work Report
+	* 1) Harrod & Callum – bug fixing of Unity Scripts; Developed basic Scrolls and quiz system
+	* 2) Yuming – designed basic game activity UI including scrolls page & setting page (volume, font size)
+	* 3) Jianglun – Quiz & scroll design
+	* 4) Yuhao – drew buildings with SAI and PS; Select characters; door open and close; digital pad
+	* 5) Yuyu – whole game scripts finished & BG research completion
+*	Things to be accomplished
+	* 1) Animations (not complex)
+	* 2) Pause system
+	* 3) UI & building 
+	* 4) Scrolls & scripts & dialog detail optimizing
+	* 5) Integration of individual parts to form a complete system
+	* 6) Visit mode – optional (determined by the progress of play mode)
+	* 7) Volume guidance - optional
+
+	
 ## 2019.03.03
 *	Work Report
 	* 1) Harrod & Callum – develop key system (pick up key) & door entrance system
-	* 2) Yuming – continuously working on UI, will finish the first version by Wed.
+	* 2) Yuming – continuously working on UI, will finish the first version by Wed
 	* 3) Jianglun & Yuhao – went to Tianyi Pavilion & did some research (got a map which is useful to design the buildings)	
 	* 4) Yuyu – working on scripts
 *	Things to be accomplished
